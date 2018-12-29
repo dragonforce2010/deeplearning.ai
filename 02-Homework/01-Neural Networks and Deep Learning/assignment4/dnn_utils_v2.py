@@ -50,7 +50,7 @@ def relu_backward(dA, cache):
     """
     
     Z = cache
-    dZ = np.array(dA, copy=True) # just converting dz to a correct object.
+    dZ = np.array(dA, copy=True) # deep copy, just converting dz to a correct object.
     
     # When z <= 0, you should set dz to 0 as well. 
     dZ[Z <= 0] = 0

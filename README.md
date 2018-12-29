@@ -1,11 +1,11 @@
 # deeplearning.ai
 
-吴恩达深度学习课程，包含课程的课件、课后作业和一些其他资料。
+This repo contains the sides/homework/resources of the courses from  the deeplearning.ai by Ng Andrew
 
-## 课程地址：
->deeplearning.ai官网地址：https://www.deeplearning.ai/
+## Course info：
+>deeplearning.ai offical website：https://www.deeplearning.ai/
 
->coursera地址：https://www.coursera.org/specializations/deep-learning
+>coursera link：https://www.coursera.org/specializations/deep-learning
 
->网易视频地址：https://163.lu/nPtn42
+>course on mooc.study.163.com：https://163.lu/nPtn42
 
